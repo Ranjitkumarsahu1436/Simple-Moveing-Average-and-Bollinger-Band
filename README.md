@@ -1,3 +1,4 @@
+# Mini-Projects 
 #Analysis the Trend of Financial Market Basics Project .
 Indicatiors Name
 Simple Moveing Average
