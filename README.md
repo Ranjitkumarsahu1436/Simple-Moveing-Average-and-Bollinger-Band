@@ -5,8 +5,8 @@ In any asset class, the primary motive for any trader, investor, or speculator i
 
 # Indicatiors Name
 
-Simple Moveing Average
-Exponentioal Moveing average
-Bolinger Band
+#Simple Moving Average(SMA)
+#Exponentioal Moving average(EMA)
+#Bollinger Band
  
 
