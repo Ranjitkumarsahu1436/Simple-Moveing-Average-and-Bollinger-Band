@@ -1,8 +1,12 @@
 # Mini-Projects 
-#Analysis the Trend of Financial Market Basics Project .
-Indicatiors Name
+Analysis the Trend of Financial Market Beginer Project .
+
+In any asset class, the primary motive for any trader, investor, or speculator is to make trading as profitable as possible. In commodities, which include everything from coffee to crude oil, we will analyze the techniques of fundamental analysis and technical analysis, which are employed by traders in their buy, sell, or hold decisions.
+
+# Indicatiors Name
+
 Simple Moveing Average
 Exponentioal Moveing average
 Bolinger Band
-The four types are trend (like MACD), Bolinger Band, volatility, and volume. As their names suggest, volatility indicators are based on volatility in the asset's price, and volume indicators are based on trading volumes of the asset
+ 
 
